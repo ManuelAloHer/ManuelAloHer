@@ -1,10 +1,9 @@
 ## Hi there 👋
-
-<!--
-
 # 🎮 Junior Programmer | Game & Level Designer
 
-Hi! I'm a **Manuel Alonso Hernando** a **junior programmer** with a strong passion for **game development** and **level design**. Brought into the GameDev World because of my experience as a veteran Tabletop RPG GameMaster with 15 years of experience tailoring rules stories and worlds for my players.I enjoy building interactive experiences, solving gameplay problems, and designing levels that are both fun and engaging.
+Hi! I'm **Manuel Alonso Hernando** a **junior programmer** with a strong passion for **game development** and **level design**. Brought into the GameDev World because of my experience as a veteran Tabletop RPG GameMaster tailoring rules, stories and worlds for my players over the last 15 years. I enjoy building interactive experiences, solving gameplay problems, and designing levels that are both fun and engaging.
+
+In a way I aspire to make many players part of my crafted adventures.
 
 This GitHub showcases my projects, experiments, and learning journey in programming and game development.
 
